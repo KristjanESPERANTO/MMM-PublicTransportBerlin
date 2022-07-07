@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "hafas-client": "^5.24",
-    "moment": "^2.29",
+    "moment": "^2.29.4",
     "vbb-line-colors": "^1.0.4",
     "vbb-short-station-name": "^1.0.1"
   },
