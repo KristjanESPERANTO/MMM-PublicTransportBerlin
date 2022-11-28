@@ -34,7 +34,7 @@
   "dependencies": {
     "hafas-client": "^5.26",
     "moment": "^2.29",
-    "vbb-line-colors": "^1.0.4",
+    "vbb-line-colors": "^1.0.5",
     "vbb-short-station-name": "^1.0.1"
   },
   "devDependencies": {
